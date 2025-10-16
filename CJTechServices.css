@@ -1,0 +1,14 @@
+p {
+    border: 10px solid black;
+    padding: 30px;
+    margin: 50px;
+    color: beige;
+    font-size: 25px;
+}
+h1 {
+    color: beige;
+}
+button {
+    color: beige;
+    border: 5px solid gray;
+}
